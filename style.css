@@ -5,10 +5,12 @@ body {
 }
 
 .notebook {
-    width: 80%;
-    min-height: 90vh;
-    margin: 5vh auto;
+    width: 1100px;
+    min-height: 850px;
+    margin: 30px auto;
     padding: 30px;
+
+    box-sizing: border-box;
 
     background-color: #fffdf5;
     background-image: 
