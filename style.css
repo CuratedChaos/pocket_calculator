@@ -255,3 +255,12 @@ body {
     color: #555;
     transform: rotate(1deg);
 }
+.drag-hint {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+    margin-top: -18px;
+    margin-bottom: 18px;
+    transform: rotate(-1deg);
+    font-style: italic;
+}
