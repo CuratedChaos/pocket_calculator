@@ -236,20 +236,22 @@ body {
 
 .creator-note {
     position: absolute;
-    bottom: 100px;
-    left: 50%;
-    transform: translateX(-50%) rotate(-1deg);
+    bottom: 80px;
+    left: 90px;
+
     font-size: 17px;
-    text-align: center;
+    text-align: left;
     color: #555;
     line-height: 25px;
+    transform: rotate(-1deg);
 }
 
 .fun-note {
     position: absolute;
-    bottom: 30px;
-    left: 50%;
-    transform: translateX(-50%) rotate(1deg);
+    bottom: 35px;
+    left: 90px;
+
     font-size: 16px;
     color: #555;
+    transform: rotate(1deg);
 }
